@@ -1,0 +1,17 @@
+Django>=5.0,<6.0
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-filter
+python-dotenv
+Pillow
+requests
+
+chromadb
+sentence-transformers
+pypdf
+python-docx
+numpy
+
+opencv-python
+pytesseract
